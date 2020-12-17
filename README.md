@@ -1,3 +1,1 @@
-![AgeInMinutesApp](src/main/res/Images/1.PNG)
-![AgeInMinutesApp](src/main/res/Images/2.PNG)
-![AgeInMinutesApp](src/main/res/Images/3.PNG)
+![ScreenShot](https://raw.github.com/Liubomyr17/AgeInMinutesApp/app/src/main/res/Images/1.PNG)
